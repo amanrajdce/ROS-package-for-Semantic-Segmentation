@@ -1,0 +1,9 @@
+*.pyc
+*.~
+.*.swp
+*.o
+*.so
+*.ipynb_checkpoints
+*py~
+*md~
+*.*~

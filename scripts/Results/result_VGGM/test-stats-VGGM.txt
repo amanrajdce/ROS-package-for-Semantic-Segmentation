@@ -1,0 +1,2 @@
+Pixel wise accuracy: 90.523600 
+Pixel wise error: 9.476400
